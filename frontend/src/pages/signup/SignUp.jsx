@@ -62,7 +62,6 @@ const SignUp = () => {
           </div>
 
           <div>
-            Q
             <label className="label">
               <span className="text-base label-text">Password</span>
             </label>
